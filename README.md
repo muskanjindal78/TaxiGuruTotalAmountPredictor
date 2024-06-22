@@ -43,10 +43,17 @@ Other columns are self-explanatory and contribute to the modeling process.
 
 ## Prediction Scores (Highest to lowest)
 
+
 **Random Forest** - 0.94027
+
 **Bagging Random Forest** - 0.93904
+
 **Bagging Regressor** - 0.93904
+
 **Decision Tree Regressor** - 0.89311
+
 **Decision Tree** - 0.89001
+
 **KNN** - 0.27786
+
 **Linear Regression** - -0.70935
